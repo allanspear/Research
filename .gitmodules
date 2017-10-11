@@ -7,3 +7,6 @@
 [submodule "ethereum-examples"]
 	path = ethereum-examples
 	url = https://github.com/StorecoinProject/ethereum-examples.git
+[submodule "blockchain-demo"]
+	path = blockchain-demo
+	url = https://github.com/StorecoinProject/blockchain-demo.git
