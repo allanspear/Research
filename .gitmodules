@@ -13,3 +13,6 @@
 [submodule "steem_protocol"]
 	path = steem_protocol
 	url = https://github.com/StorecoinProject/steem_protocol.git
+[submodule "hydrachain"]
+	path = hydrachain
+	url = https://github.com/StorecoinProject/hydrachain.git
