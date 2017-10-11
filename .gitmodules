@@ -10,3 +10,6 @@
 [submodule "blockchain-demo"]
 	path = blockchain-demo
 	url = https://github.com/StorecoinProject/blockchain-demo.git
+[submodule "steem_protocol"]
+	path = steem_protocol
+	url = https://github.com/StorecoinProject/steem_protocol.git
