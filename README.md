@@ -53,11 +53,3 @@ Basecoin is an ABCI application designed to be used with the Tendermint consensu
 # Tm-bench
 
 This repo contains the two monitoring tools for tendermint.
-
-## tm-bench
-
-tm-bench -T 10 -r 1000 localhost:46657
-
-## tm-monitor
-
-tm-monitor localhost:46657
