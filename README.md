@@ -45,3 +45,6 @@ The easiest way to get started with running the examples is to use the vagrant e
 
 This repository defines the blocks, transactions, operations, and static validation that is independent of chain state. It can be used to build and sign transactions.
 
+# Basecoin
+
+Basecoin is an ABCI application designed to be used with the Tendermint consensus engine to form a Proof-of-Stake cryptocurrency. It also provides a general purpose framework for extending the feature-set of the cryptocurrency by implementing plugins.
