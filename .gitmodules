@@ -16,9 +16,9 @@
 [submodule "hydrachain"]
 	path = hydrachain
 	url = https://github.com/StorecoinProject/hydrachain.git
-[submodule "tm-bench"]
-	path = tm-bench
-	url = //github.com/StorecoinProject/tm-bench.git
 [submodule "basecoin"]
 	path = basecoin
 	url = https://github.com/tendermint/basecoin.git
+[submodule "tm-bench"]
+	path = tm-bench
+	url = https://github.com/StorecoinProject/tm-bench.git
