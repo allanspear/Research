@@ -16,3 +16,6 @@
 [submodule "hydrachain"]
 	path = hydrachain
 	url = https://github.com/StorecoinProject/hydrachain.git
+[submodule "tm-bench"]
+	path = tm-bench
+	url = https://github.com/StorecoinProject/tm-bench.git
