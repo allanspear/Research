@@ -19,3 +19,6 @@
 [submodule "tm-bench"]
 	path = tm-bench
 	url = //github.com/StorecoinProject/tm-bench.git
+[submodule "basecoin"]
+	path = basecoin
+	url = https://github.com/tendermint/basecoin.git
