@@ -1,0 +1,24 @@
+[submodule "quorum"]
+	path = quorum
+	url = https://github.com/StorecoinProject/quorum.git
+[submodule "quorum-examples"]
+	path = quorum-examples
+	url = https://github.com/StorecoinProject/quorum-examples.git
+[submodule "ethereum-examples"]
+	path = ethereum-examples
+	url = https://github.com/StorecoinProject/ethereum-examples.git
+[submodule "blockchain-demo"]
+	path = blockchain-demo
+	url = https://github.com/StorecoinProject/blockchain-demo.git
+[submodule "steem_protocol"]
+	path = steem_protocol
+	url = https://github.com/StorecoinProject/steem_protocol.git
+[submodule "hydrachain"]
+	path = hydrachain
+	url = https://github.com/StorecoinProject/hydrachain.git
+[submodule "tm-bench"]
+	path = tm-bench
+	url = https://github.com/StorecoinProject/tm-bench.git
+[submodule "basecoin"]
+	path = basecoin
+	url = https://github.com/tendermint/basecoin.git
