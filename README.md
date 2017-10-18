@@ -48,3 +48,16 @@ This repository defines the blocks, transactions, operations, and static validat
 # Basecoin
 
 Basecoin is an ABCI application designed to be used with the Tendermint consensus engine to form a Proof-of-Stake cryptocurrency. It also provides a general purpose framework for extending the feature-set of the cryptocurrency by implementing plugins.
+
+
+# Tm-bench
+
+This repo contains the two monitoring tools for tendermint.
+
+## tm-bench
+
+tm-bench -T 10 -r 1000 localhost:46657
+
+## tm-monitor
+
+tm-monitor localhost:46657
