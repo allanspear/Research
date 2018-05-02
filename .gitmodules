@@ -28,3 +28,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/StorecoinProject/wiki.git
+[submodule "solidity"]
+	path = solidity
+	url = https://github.com/StorecoinProject/solidity.git
