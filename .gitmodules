@@ -1,6 +1,3 @@
-[submodule "quorum"]
-	path = quorum
-	url = https://github.com/StorecoinProject/quorum.git
 [submodule "quorum-examples"]
 	path = quorum-examples
 	url = https://github.com/StorecoinProject/quorum-examples.git
