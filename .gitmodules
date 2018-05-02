@@ -25,3 +25,6 @@
 [submodule "tendermint"]
 	path = tendermint
 	url = https://github.com/StorecoinProject/tendermint.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/StorecoinProject/wiki.git
