@@ -55,3 +55,6 @@
 [submodule "ethereum-guides"]
 	path = ethereum-guides
 	url = https://github.com/StorecoinProject/ethereum-guides.git
+[submodule "test-rm"]
+	path = test-rm
+	url = https://github.com/StorecoinProject/test-rm.git
