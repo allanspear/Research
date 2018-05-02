@@ -31,3 +31,6 @@
 [submodule "solidity"]
 	path = solidity
 	url = https://github.com/StorecoinProject/solidity.git
+[submodule "zeppelin-solidity"]
+	path = zeppelin-solidity
+	url = https://github.com/StorecoinProject/zeppelin-solidity.git
