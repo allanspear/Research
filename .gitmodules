@@ -52,3 +52,6 @@
 [submodule "universal-state-channels"]
 	path = universal-state-channels
 	url = https://github.com/StorecoinProject/universal-state-channels.git
+[submodule "ethereum-guides"]
+	path = ethereum-guides
+	url = https://github.com/StorecoinProject/ethereum-guides.git
