@@ -37,3 +37,6 @@
 [submodule "ESOP-ui"]
 	path = ESOP-ui
 	url = https://github.com/StorecoinProject/ESOP-ui.git
+[submodule "ESOP"]
+	path = ESOP
+	url = https://github.com/StorecoinProject/ESOP.git
