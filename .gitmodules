@@ -40,9 +40,6 @@
 [submodule "ESOP"]
 	path = ESOP
 	url = https://github.com/StorecoinProject/ESOP.git
-[submodule "go-ethereum"]
-	path = go-ethereum
-	url = https://github.com/StorecoinProject/go-ethereum.git
 [submodule "raiden"]
 	path = raiden
 	url = https://github.com/StorecoinProject/raiden.git
