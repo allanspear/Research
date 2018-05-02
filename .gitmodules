@@ -43,3 +43,6 @@
 [submodule "go-ethereum"]
 	path = go-ethereum
 	url = https://github.com/StorecoinProject/go-ethereum.git
+[submodule "raiden"]
+	path = raiden
+	url = https://github.com/StorecoinProject/raiden.git
