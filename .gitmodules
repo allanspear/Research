@@ -49,3 +49,6 @@
 [submodule "slackcoin"]
 	path = slackcoin
 	url = https://github.com/StorecoinProject/slackcoin.git
+[submodule "universal-state-channels"]
+	path = universal-state-channels
+	url = https://github.com/StorecoinProject/universal-state-channels.git
