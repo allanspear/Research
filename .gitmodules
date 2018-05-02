@@ -46,3 +46,6 @@
 [submodule "raiden"]
 	path = raiden
 	url = https://github.com/StorecoinProject/raiden.git
+[submodule "slackcoin"]
+	path = slackcoin
+	url = https://github.com/StorecoinProject/slackcoin.git
