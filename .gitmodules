@@ -25,33 +25,4 @@
 [submodule "tendermint"]
 	path = tendermint
 	url = https://github.com/StorecoinProject/tendermint.git
-[submodule "wiki"]
-	path = wiki
-	url = https://github.com/StorecoinProject/wiki.git
-[submodule "solidity"]
-	path = solidity
-	url = https://github.com/StorecoinProject/solidity.git
-[submodule "zeppelin-solidity"]
-	path = zeppelin-solidity
-	url = https://github.com/StorecoinProject/zeppelin-solidity.git
-[submodule "ESOP-ui"]
-	path = ESOP-ui
-	url = https://github.com/StorecoinProject/ESOP-ui.git
-[submodule "ESOP"]
-	path = ESOP
-	url = https://github.com/StorecoinProject/ESOP.git
-[submodule "raiden"]
-	path = raiden
-	url = https://github.com/StorecoinProject/raiden.git
-[submodule "slackcoin"]
-	path = slackcoin
-	url = https://github.com/StorecoinProject/slackcoin.git
-[submodule "universal-state-channels"]
-	path = universal-state-channels
-	url = https://github.com/StorecoinProject/universal-state-channels.git
-[submodule "ethereum-guides"]
-	path = ethereum-guides
-	url = https://github.com/StorecoinProject/ethereum-guides.git
-[submodule "test-rm"]
-	path = test-rm
-	url = https://github.com/StorecoinProject/test-rm.git
+
